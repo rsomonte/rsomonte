@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, welcome to my GitHub
 
-<!--
-**rsomonte/rsomonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study cybersecurity and computer science, and I love technology.
+I enjoy learning new stuff, like the mighty **Rust** language. I have a few projects and probably more now that you are reading this. I love Linux too, I'm looking forward switching completely to ✨*EndeavourOS*✨.
 
-Here are some ideas to get you started:
+![](https://i.makeagif.com/media/4-24-2025/9KlNh1.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️Passions:
+- 🎮Videogames
+- 🏎️F1
+- 🥋Judo
+- 🗣️Learning languages (I can speak a few, but they are not enough to fulfill my hunger on learning)
+---
+Btw, I'm just learning😎👍
